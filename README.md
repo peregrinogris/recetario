@@ -16,3 +16,6 @@
  * [Tarta de Banana](recetas/09.md)
  * [Pan Dulce (TODO)](recetas/05.md)
  * [Naranjas Caramelizadas (TODO)](recetas/12.md)
+ * [Carré de Cerdo Relleno (TODO)](recetas/17.md)
+ * [Puré de Manzanas](recetas/18.md)
+ * [Puré dulce de Batata](recetas/19.md)
