@@ -6,7 +6,7 @@
  * [Guiso De Cerdo Y Arroz](recetas/06.md)
  * [Guiso de Lentejas](recetas/08.md)
  * [Sun-Dried Tomato Risotto](recetas/10.md)
- * [Parmigiana de Zucchini :memo:](recetas/11.md)
+ * [Parmigiana de Zucchini](recetas/11.md)
  * [Tarta Mixta de Berenjenas y Zapallitos](recetas/13.md)
  * [Masa Común de tarta](recetas/14.md)
  * [Filete de Merluza al Vino Blanco](recetas/15.md)
