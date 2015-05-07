@@ -13,7 +13,7 @@
 
 #### Marinado:
 * Azucar 2 Cdas
-* Jenjibre rallado 1 Cdta [[instrucciones](http://www.tepore.com/cooking/waza/162/index.htm)]
+* Jenjibre rallado 1 Cdta [[instrucciones](http://www.tepore.com/user/ja/cooking/5bc1e0c1-05b8-11e2-b984-ebae048d4509)]
 * Ajo rallado 1 Cdta (ajo rallado)
 * Salsa de Soja 2 Cdtas
 
