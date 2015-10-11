@@ -20,6 +20,7 @@
  * [Carré de Cerdo Relleno](recetas/carre-relleno.md)
  * [Puré de Manzanas](recetas/pure-manzana.md)
  * [Puré dulce de Batata](recetas/pure-batata.md)
+ * [Pepinos en conserva](recetas/pepinos-conserva.md)
  * [Escabeche de Pollo :memo:]()
  * [Focaccia de Hierbas :memo:]()
  * [Cebollas Caramelizadas :memo:]()
