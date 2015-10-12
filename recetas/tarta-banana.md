@@ -1,7 +1,7 @@
 ## Tarta de Banana
 
 <div class="image">
-  <img src="http://distilleryimage9.s3.amazonaws.com/df250bbaba7911e1b00112313800c5e4_7.jpg" />
+  <img src="http://i.imgur.com/27NA0rX.jpg" height=320/>
   <div class="caption">Tarta de Banana</div>
 </div>
 
@@ -31,6 +31,8 @@ introducir un palillo en el centro de la miga y sacarlo sin adherencias.
 Retirar el  budín del horno y dejarlo entibiar. Desmoldarlo y dejarlo enfriar.
 Por último,  espolvorearlo con la mezcla de azúcar y canela.
 
-**Nota:** Se puede variar y hacer marmolado o con nueces, queda muy rico.
-También se puede cubrir con una capa de azucar al momento de ponerlo en el horno
-para lograr un crujiente.
+**Notas:**
+
+  * Se puede variar y hacer marmolado o con nueces, queda muy rico.
+    También se puede cubrir con una capa de azucar al momento de ponerlo en el horno
+    para lograr un crujiente.

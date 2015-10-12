@@ -1,15 +1,14 @@
-
 ## Ñoquis de Papa
+
+<div class="image">
+  <img src="http://i.imgur.com/G58ivnu.jpg" height=320/>
+  <div class="caption">Ñoquis de Papa</div>
+</div>
 
 ### Ingredientes
   * 230gr Papa
   * 70gr Harina 0000
   * 1 huevo
-
-<div class="image">
-  <img src="http://distilleryimage10.s3.amazonaws.com/fae7918408ca11e2bec722000a1f8c33_7.jpg" />
-  <div class="caption">Ñoquis de Papa</div>
-</div>
 
 ### Preparación
 

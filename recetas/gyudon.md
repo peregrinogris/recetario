@@ -1,7 +1,7 @@
 ## Gyûdon (牛丼)
 
 <div class="image">
-  <img src="http://distilleryimage9.s3.amazonaws.com/79cfb59ecde811e193c122000a1e87b7_6.jpg" />
+  <img src="http://i.imgur.com/dxSVZxj.jpg" height=320/>
   <div class="caption">Gyûdon (牛丼)</div>
 </div>
 
@@ -40,7 +40,8 @@ clave.
 japonés), cubriendo toda la superficie. [Acá](http://www.bob-an.com/recipe/dailyjc/hints/gohan/gohan.html)
 hay instrucciones para hacer el arroz al vapor, si es que no tenés arrocera.
 
-### Notas:
+**Notas:**
+
 * La carne puede aumentarse a 400gr o 500gr y no variar el resto de los
 ingredientes, sigue quedando muy bien y le da más cuerpo al plato.
 * El corte de carne en sí puede ser cualquiera que se use para milanesas o
