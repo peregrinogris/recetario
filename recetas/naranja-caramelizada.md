@@ -1,4 +1,4 @@
-## Naranjas Caramelizadas [TODO]
+## Naranjas Caramelizadas :memo:
 
 <div class="image">
   <img src="http://i.imgur.com/cB1rgP8.jpg" height=320/>
