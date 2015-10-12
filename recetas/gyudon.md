@@ -5,7 +5,6 @@
   <div class="caption">Gyûdon (牛丼)</div>
 </div>
 
-
 ### Ingredientes (3 personas)
 * Arroz para Gohan (Doble Carolina, Koshihikari) 3 Tazas
 * Carne (En fetas) 300gr

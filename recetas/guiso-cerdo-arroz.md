@@ -1,5 +1,10 @@
 ## Guiso De Cerdo Y Arroz
 
+<div class="image">
+  <img src="http://i.imgur.com/OO2kuZJ.jpg" height=320/>
+  <div class="caption">Guiso De Cerdo Y Arroz en preparación</div>
+</div>
+
 ### Ingredientes
 
 **Guiso**

@@ -1,5 +1,10 @@
 ## Banana Bread
 
+<div class="image">
+  <img src="http://i.imgur.com/FXv4vd9.jpg" height=320/>
+  <div class="caption">Banana Bread</div>
+</div>
+
 ### Ingredients
   * 3 or 4 ripe bananas, smashed
   * 1/3 cup melted butter

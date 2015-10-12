@@ -1,5 +1,10 @@
 ## Naranjas Caramelizadas [TODO]
 
+<div class="image">
+  <img src="http://i.imgur.com/cB1rgP8.jpg" height=320/>
+  <div class="caption">Naranjas Caramelizadas</div>
+</div>
+
 ### Ingredientes
 4 large oranges
 8 ounces water

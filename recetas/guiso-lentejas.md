@@ -1,5 +1,10 @@
 ## Guiso de Lentejas
 
+<div class="image">
+  <img src="http://i.imgur.com/aaBq9xG.jpg" height=320/>
+  <div class="caption">Guiso de Lentejas</div>
+</div>
+
 ### Ingredientes:
   * 1 paquete lentejas
   * 3 cebollas
