@@ -1,4 +1,4 @@
-## Empanadas Arabes :memo:
+## Empanadas Arabes :pencil2:
 
 ### Ingredientes
 

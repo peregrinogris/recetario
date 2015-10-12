@@ -1,5 +1,5 @@
 # Recetas:
-## Principales
+## Principales :spaghetti:
  * [Carré de Cerdo Relleno](recetas/carre-relleno.md)
  * [Filete de Merluza a la Crema de Puerros](recetas/filete-merluza-vino-blanco.md)
  * [Filete de Merluza al Vino Blanco](recetas/filete-merluza-vino-blanco.md)
@@ -11,22 +11,22 @@
  * [Sun-Dried Tomato Risotto](recetas/tomato-risotto.md)
  * [Tarta Mixta de Berenjenas y Zapallitos](recetas/tarta-berenjena-zapallito.md)
 
-## Acompañamientos
+## Acompañamientos :fries:
  * [Chimichurri](recetas/chimichurri.md)
  * [Masa Común de tarta](recetas/tarta-masa.md)
  * [Pepinos en conserva](recetas/pepinos-conserva.md)
  * [Puré de Manzanas](recetas/pure-manzana.md)
  * [Puré dulce de Batata](recetas/pure-batata.md)
 
-## Pasterleria
+## Pasterleria :cake:
  * [Banana Bread](recetas/banana-bread.md)
  * [Cheesecake Dulce de Leche](recetas/cheesecacke-ddl.md)
  * [Pan Dulce](recetas/pan-dulce.md)
  * [Tarta de Banana](recetas/tarta-banana.md)
 
-## Pendientes
- * [Cebollas Caramelizadas :memo:]()
- * [Empanadas Arabes :memo:](recetas/empanadas-arabes.md)
- * [Escabeche de Pollo :memo:]()
- * [Focaccia de Hierbas :memo:]()
- * [Naranjas Caramelizadas :memo:](recetas/naranja-caramelizada.md)
+## Pendientes :pencil2:
+ * [Cebollas Caramelizadas]()
+ * [Empanadas Arabes](recetas/empanadas-arabes.md)
+ * [Escabeche de Pollo]()
+ * [Focaccia de Hierbas]()
+ * [Naranjas Caramelizadas](recetas/naranja-caramelizada.md)
