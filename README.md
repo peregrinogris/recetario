@@ -24,10 +24,3 @@
  * [Cheesecake Dulce de Leche](recetas/cheesecacke-ddl.md)
  * [Pan Dulce](recetas/pan-dulce.md)
  * [Tarta de Banana](recetas/tarta-banana.md)
-
-## Pendientes :pencil2:
- * [Cebollas Caramelizadas]()
- * [Empanadas Arabes](recetas/empanadas-arabes.md)
- * [Escabeche de Pollo]()
- * [Focaccia de Hierbas]()
- * [Naranjas Caramelizadas](recetas/naranja-caramelizada.md)
