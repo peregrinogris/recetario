@@ -14,6 +14,7 @@
 ## Acompañamientos :fries:
  * [Chimichurri](recetas/chimichurri.md)
  * [Masa Común de tarta](recetas/tarta-masa.md)
+ * [Masa de Pizza](recetas/pizza-masa.md)
  * [Pepinos en conserva](recetas/pepinos-conserva.md)
  * [Puré de Manzanas](recetas/pure-manzana.md)
  * [Puré dulce de Batata](recetas/pure-batata.md)
