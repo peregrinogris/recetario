@@ -10,6 +10,7 @@
  * [Parmigiana de Zucchini](recetas/parmigiana-zucchini.md)
  * [Sun-Dried Tomato Risotto](recetas/tomato-risotto.md)
  * [Tarta Mixta de Berenjenas y Zapallitos](recetas/tarta-berenjena-zapallito.md)
+ * [Empanadas Arabes](recetas/empanadas-arabes.md)
 
 ## Acompañamientos :fries:
  * [Chimichurri](recetas/chimichurri.md)
