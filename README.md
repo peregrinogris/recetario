@@ -6,6 +6,7 @@
  * [Guiso De Cerdo Y Arroz](recetas/guiso-cerdo-arroz.md)
  * [Guiso de Lentejas](recetas/guiso-lentejas.md)
  * [Gyûdon (牛丼)](recetas/gyudon.md)
+ * [Locro](recetas/locro.md)
  * [Ñoquis de Papa](recetas/gnocchi-papa.md)
  * [Parmigiana de Zucchini](recetas/parmigiana-zucchini.md)
  * [Sun-Dried Tomato Risotto](recetas/tomato-risotto.md)
