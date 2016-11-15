@@ -1,4 +1,4 @@
-## Ensalada Cesar :pencil2:
+## Ensalada Cesar
 
 <div class="image">
   <img src="http://i.imgur.com/ELOnLHp.jpg" height=320/>
