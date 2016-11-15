@@ -26,3 +26,4 @@
  * [Cheesecake Dulce de Leche](recetas/cheesecacke-ddl.md)
  * [Pan Dulce](recetas/pan-dulce.md)
  * [Tarta de Banana](recetas/tarta-banana.md)
+ * [Galletitas de Avena](recetas/galletitas-avena.md)
