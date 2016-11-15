@@ -11,6 +11,7 @@
  * [Parmigiana de Zucchini](recetas/parmigiana-zucchini.md)
  * [Sun-Dried Tomato Risotto](recetas/tomato-risotto.md)
  * [Tarta Mixta de Berenjenas y Zapallitos](recetas/tarta-berenjena-zapallito.md)
+ * [Beef and Broccoli Stir-Fry](recetas/beef-broccoli-stir-fry.md)
 
 ## Acompañamientos :fries:
  * [Chimichurri](recetas/chimichurri.md)
