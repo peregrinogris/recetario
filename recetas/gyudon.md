@@ -11,9 +11,9 @@
 * Cebolla 1 (mediana)
 
 #### Marinado:
-* Azucar 2 Cdas
+* Azucar 2 Cdtas
 * Jenjibre rallado 1 Cdta [[instrucciones](http://www.tepore.com/user/ja/cooking/5bc1e0c1-05b8-11e2-b984-ebae048d4509)]
-* Ajo rallado 1 Cdta (ajo rallado)
+* Ajo rallado 1 Cdta
 * Salsa de Soja 2 Cdtas
 
 #### Caldo:
@@ -24,9 +24,9 @@
 * Azucar 1 Cda
 
 ### Preparación
-1. Cortar la carne en pedazos fáciles de comer y la cebolla en juliana
+1. Cortar la carne en pedazos fáciles de comer y la cebolla en juliana.
 
-2. En un bowl meter lo obtenido en el paso anterior y todas los ingredientes
+2. En un bowl meter lo obtenido en el paso anterior y todos los ingredientes
 para el marinado. Mezclar bien y dejar reposar unos 15 ~ 30min.
 
 3. Meter todos los ingredientes del caldo en una sartén a fuego lento. Cuando
@@ -36,7 +36,7 @@ Podemos ir sacando la espuma con restos de carne que se forme, aunque no es
 clave.
 
 4. Servir en un chawan (o bowl tipo cazuela) arriba del gohan (arroz tipo
-japonés), cubriendo toda la superficie. [Acá](http://www.bob-an.com/recipe/dailyjc/hints/gohan/gohan.html)
+japonés), cubriendo toda la superficie. [Acá](http://bronmarshall.com/2010/spring/perfect_gohan_japanese_steamed_rice.html)
 hay instrucciones para hacer el arroz al vapor, si es que no tenés arrocera.
 
 **Notas:**
