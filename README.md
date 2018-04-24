@@ -21,7 +21,7 @@
  * [Puré de Manzanas](recetas/pure-manzana.md)
  * [Puré dulce de Batata](recetas/pure-batata.md)
 
-## Pasterleria :cake:
+## Pastelería :cake:
  * [Banana Bread](recetas/banana-bread.md)
  * [Cheesecake Dulce de Leche](recetas/cheesecacke-ddl.md)
  * [Pan Dulce](recetas/pan-dulce.md)
