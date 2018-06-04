@@ -9,6 +9,7 @@
  * [Locro](recetas/locro.md)
  * [Ñoquis de Papa](recetas/gnocchi-papa.md)
  * [Parmigiana de Zucchini](recetas/parmigiana-zucchini.md)
+ * [Pollo a los Tres Aromas (Sanbeiji - 三杯鸡)](recetas/pollo-tres-aromas.md)
  * [Sun-Dried Tomato Risotto](recetas/tomato-risotto.md)
  * [Tarta Mixta de Berenjenas y Zapallitos](recetas/tarta-berenjena-zapallito.md)
 
