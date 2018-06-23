@@ -25,5 +25,6 @@
 ## Pastelería :cake:
  * [Banana Bread](recetas/banana-bread.md)
  * [Cheesecake Dulce de Leche](recetas/cheesecacke-ddl.md)
+ * [Crumble de Manzana](recetas/crumble-manzana.md)
  * [Pan Dulce](recetas/pan-dulce.md)
  * [Tarta de Banana](recetas/tarta-banana.md)
