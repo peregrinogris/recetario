@@ -18,7 +18,6 @@
  * [Ensalada Cesar](recetas/ensalada-cesar.md)
  * [Masa Común de tarta](recetas/tarta-masa.md)
  * [Masa de Pizza](recetas/pizza-masa.md)
- * [Pepinos en conserva](recetas/pepinos-conserva.md)
  * [Puré de Manzanas](recetas/pure-manzana.md)
  * [Puré dulce de Batata](recetas/pure-batata.md)
 
@@ -28,3 +27,7 @@
  * [Crumble de Manzana](recetas/crumble-manzana.md)
  * [Pan Dulce](recetas/pan-dulce.md)
  * [Tarta de Banana](recetas/tarta-banana.md)
+
+## Fermentos y Conservas :cucumber:
+ * [Pepinos en conserva](recetas/pepinos-conserva.md)
+ * [Yogurt](recetas/yogurt.md)
