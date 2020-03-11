@@ -20,6 +20,7 @@
  * [Masa de Pizza](recetas/pizza-masa.md)
  * [Puré de Manzanas](recetas/pure-manzana.md)
  * [Puré dulce de Batata](recetas/pure-batata.md)
+ * [Faina](recetas/faina.md)
 
 ## Pastelería :cake:
  * [Banana Bread](recetas/banana-bread.md)
