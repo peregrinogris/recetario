@@ -23,7 +23,7 @@
  * [Faina](recetas/faina.md)
 
 ## Pastelería :cake:
- * [Banana Bread](recetas/banana-bread.md)
+ * [Budín de Banana](recetas/banana-bread.md)
  * [Cheesecake Dulce de Leche](recetas/cheesecacke-ddl.md)
  * [Crumble de Manzana](recetas/crumble-manzana.md)
  * [Pan Dulce](recetas/pan-dulce.md)
