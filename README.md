@@ -26,6 +26,7 @@
  * [Budín de Banana](recetas/banana-bread.md)
  * [Cheesecake Dulce de Leche](recetas/cheesecacke-ddl.md)
  * [Crumble de Manzana](recetas/crumble-manzana.md)
+ * [Dulce de Leche](recetas/dulce-de-leche.md)
  * [Pan Dulce](recetas/pan-dulce.md)
  * [Tarta de Banana](recetas/tarta-banana.md)
  * [Galletitas de Avena](recetas/galletitas-avena.md)
