@@ -24,6 +24,7 @@
 
 ## Pastelería :cake:
  * [Budín de Banana](recetas/banana-bread.md)
+ * [Budín de Limón y Amapola](recetas/budin-limon-amapola.md)
  * [Cheesecake Dulce de Leche](recetas/cheesecacke-ddl.md)
  * [Crumble de Manzana](recetas/crumble-manzana.md)
  * [Dulce de Leche](recetas/dulce-de-leche.md)
