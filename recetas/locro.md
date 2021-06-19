@@ -2,7 +2,7 @@
 
 ### Ingredientes:
 
-La receta esta rinde para unas 20 porciones.
+> Rinde 20 porciones
 
 **Locro**
 
