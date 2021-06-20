@@ -1,7 +1,7 @@
 ## Tarta de Banana
 
 <div class="image">
-  <img src="http://i.imgur.com/27NA0rX.jpg" height=320/>
+  <img src="https://i.imgur.com/27NA0rX.jpg" height=320/>
   <div class="caption">Tarta de Banana</div>
 </div>
 

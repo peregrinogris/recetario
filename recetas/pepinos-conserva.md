@@ -1,7 +1,7 @@
 ## Pepinos en conserva
 
 <div class="image">
-  <img src="http://i.imgur.com/RJVogBb.jpg" height=320/>
+  <img src="https://i.imgur.com/RJVogBb.jpg" height=320/>
   <div class="caption"></div>
 </div>
 

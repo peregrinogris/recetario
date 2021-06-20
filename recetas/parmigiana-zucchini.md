@@ -1,7 +1,7 @@
 ## Parmigiana de Zucchini
 
 <div class="image">
-  <img src="http://i.imgur.com/z1sbnKz.jpg" height=320/>
+  <img src="https://i.imgur.com/z1sbnKz.jpg" height=320/>
   <div class="caption">Parmigiana de Zucchini</div>
 </div>
 

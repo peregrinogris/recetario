@@ -1,7 +1,7 @@
 ## Tarta Mixta de Berenjenas y Zapallitos
 
 <div class="image">
-  <img src="http://i.imgur.com/Ifxn2rH.jpg" height=320/>
+  <img src="https://i.imgur.com/Ifxn2rH.jpg" height=320/>
   <div class="caption">Tarta Mixta de Berenjenas y Zapallitos</div>
 </div>
 

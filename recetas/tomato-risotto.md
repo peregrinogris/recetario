@@ -1,7 +1,7 @@
 ## Sun-Dried Tomato Risotto
 
 <div class="image">
-  <img src="http://i.imgur.com/F1MN8xg.jpg" height=320/>
+  <img src="https://i.imgur.com/F1MN8xg.jpg" height=320/>
   <div class="caption">Sun-Dried Tomato Risotto</div>
 </div>
 

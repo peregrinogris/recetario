@@ -1,7 +1,7 @@
 ## Budín de Banana
 
 <div class="image">
-  <img src="http://i.imgur.com/FXv4vd9.jpg" height=320/>
+  <img src="https://i.imgur.com/FXv4vd9.jpg" height=320/>
   <div class="caption">Budín de Banana</div>
 </div>
 

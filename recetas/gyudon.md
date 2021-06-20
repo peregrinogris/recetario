@@ -1,7 +1,7 @@
 ## Gyûdon (牛丼)
 
 <div class="image">
-  <img src="http://i.imgur.com/dxSVZxj.jpg" height=320/>
+  <img src="https://i.imgur.com/dxSVZxj.jpg" height=320/>
   <div class="caption">Gyûdon (牛丼)</div>
 </div>
 

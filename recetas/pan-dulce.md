@@ -1,7 +1,7 @@
 ## Pan Dulce
 
 <div class="image">
-  <img src="http://i.imgur.com/BI4MV24.jpg" height=320/>
+  <img src="https://i.imgur.com/BI4MV24.jpg" height=320/>
   <div class="caption">Pan Dulce</div>
 </div>
 

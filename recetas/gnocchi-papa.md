@@ -1,7 +1,7 @@
 ## Ñoquis de Papa
 
 <div class="image">
-  <img src="http://i.imgur.com/G58ivnu.jpg" height=320/>
+  <img src="https://i.imgur.com/G58ivnu.jpg" height=320/>
   <div class="caption">Ñoquis de Papa</div>
 </div>
 

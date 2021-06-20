@@ -1,7 +1,7 @@
 ## Ensalada Cesar
 
 <div class="image">
-  <img src="http://i.imgur.com/ELOnLHp.jpg" height=320/>
+  <img src="https://i.imgur.com/ELOnLHp.jpg" height=320/>
   <div class="caption">Ensalada Cesar</div>
 </div>
 
