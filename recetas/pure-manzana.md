@@ -2,25 +2,22 @@
 
 ### Ingredientes
   * 1kg Manzanas Verdes
-  * 75gr Manteca
-  * 50gr Azúcar
-  * 200cc Vino Blanco
 
 ### Preparación
 
-Pelar las manzanas, descorazonarlas y cortarlas en cubos. Puede usarse también manzanas rojas, pero son más dulces y menos ácidas.
+> Rinde 4 porciones
 
-Disolver la manteca en una olla y agregar las manzanas,
-revolviendo para que tomen sabor.
+Pelar las manzanas, descorazonarlas y cortarlas en cubos. Pueden usarse también
+manzanas rojas, pero son más dulces y menos ácidas.
 
-Luego agregar el vino blanco y el azúcar, revolver bien y
-dejar cocinar a fuego lento durante 30min aproximadamente.
+Poner las manzanas en una olla y cocinar tapadas a fuego bajo por aproximadamente
+15min. Revisar seguido que no se sequen y quemen.
 
-Cuando las manzanas ya estén bien blandas y el líquido algo
-evaporado, apartar del fuego y procesar con un mixer para
-lograr el puré.
+Cuando las manzanas ya estén bien blandas y el líquido algo evaporado, apartar
+del fuego. Dependiendo la textura deseada, procesar con un mixer o pisar con un
+tenedor.
 
-Este puré se puede servir tanto frío como caliente.
-
-*Fuentes:*
-* [http://www.mis-recetas.org/recetas/show/42173-pure-de-manzana-para-carnes](http://www.mis-recetas.org/recetas/show/42173-pure-de-manzana-para-carnes)
+**Notas:**
+* Este puré se puede servir tanto frío como caliente.
+* Se puede agregar algo de azucar para usarlo en preparaciones dulces.
+* Se pueden usar especias como anís estrellado, canela o clavo de olor.
