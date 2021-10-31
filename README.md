@@ -32,6 +32,7 @@
  * [Pan Dulce](recetas/pan-dulce.md)
  * [Tarta de Banana](recetas/tarta-banana.md)
  * [Galletitas de Avena](recetas/galletitas-avena.md)
+ * [Helados](recetas/helados.md)
 
 ## Fermentos y Conservas :cucumber:
  * [Pepinos en conserva](recetas/pepinos-conserva.md)
