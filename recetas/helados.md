@@ -12,6 +12,7 @@ escrito por David Lebovitz. [[link](https://www.davidlebovitz.com/perfect-scoop-
 
 * **Helados a la crema**
   * [Jengibre](#jengibre)
+  * [Mascarpone](#mascarpone)
   * [Zambayon](#zambayon)
 
 * **Helados al agua**
@@ -48,7 +49,7 @@ Por lo general los helados a base de crema parten de una crema inglesa, que se
 logra mezclando yemas, leche y azúcar. Para prepararla:
 
  * Atemperar las yemas junto con la mezcla caliente de la leche, azucar, crema y
-   por lo general saborizantes.
+   por lo general aromatizantes.
  * Volver a poner todo en la olla, y a fuego medio volver a calentar revolviendo
    siempre bien el fondo y los bordes de abajo.
  * Lo más simple para saber cuando está lista, es con un termómetro medir que
@@ -107,6 +108,39 @@ El nombre de esto en italia suele ser "Stracciatella".
 **Notas**
   * Este helado queda bien con un [granizado](#tecnicas-granizado). Con
     alrededor de 75gr de chocolate está bien para esta cantidad.
+
+### Mascarpone
+<a name="mascarpone" />
+
+> Rinde 1L
+
+#### Ingredientes
+  * 250ml de leche entera
+  * 150gr de azúcar
+  * Una pizca grande de sal
+  * 5 yemas de huevo
+  * 400gr de queso mascarpone
+
+#### Preparación
+  * Calentar la leche, el azúcar y la sal en una olla.
+  * En un bowl grande, batir un poco las yemas y luego
+    [temperarlas](#tecnicas-temperado) con la mezcla de leche caliente.
+  * Preparar la crema inglesa siguiendo las [instrucciones](#tecnicas-crema).
+  * Pasar la preparación por un colador y enfriar lo más rápido posible en un
+    baño maría invertido.
+  * Dejar reposar en la heladera por al menos un par de horas, idealmente una
+    noche entera.
+  * Batir el mascarpone en la mezclar, antes de pasarla por la máquina de
+    helados.
+
+**Notas**
+  * Queda bien con una mermelada de frutos rojos. Cuando el helado esté hecho,
+    Calentarla unos segundos en microondas para que sea más líquida, y al pasar
+    al bowl para enfriar alternar una capa de helado con un poco de mermelada.
+  * Para una mermelada simple de arándanos (o cualquier fruto rojo), calentar
+    60gr de arándanos, 40gr de azúcar, unas gotas de jugo de limón en una olla.
+    Pisar un poco los arándanos con un tenedor, y a fuego bajo cocinar hasta que
+    tenga la consistencia deseada (para esta cantidad son unos minutos nada más!).
 
 ### Zambayon
 <a name="zambayon" />
