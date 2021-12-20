@@ -13,7 +13,7 @@ escrito por David Lebovitz. [[link](https://www.davidlebovitz.com/perfect-scoop-
 * **Helados a la crema**
   * [Jengibre](#jengibre)
   * [Mascarpone](#mascarpone)
-  * [Zambayon](#zambayon)
+  * [Sambayón](#sambayon)
 
 * **Helados al agua**
   * [Limón](#limon)
@@ -142,8 +142,8 @@ El nombre de esto en italia suele ser "Stracciatella".
     Pisar un poco los arándanos con un tenedor, y a fuego bajo cocinar hasta que
     tenga la consistencia deseada (para esta cantidad son unos minutos nada más!).
 
-### Zambayon
-<a name="zambayon" />
+### Sambayón
+<a name="sambayon" />
 
 > Rinde 1L
 
@@ -163,10 +163,10 @@ El nombre de esto en italia suele ser "Stracciatella".
     [temperarlas](#tecnicas-temperado) con la mezcla caliente de leche y crema
     infusionada.
   * Preparar la crema inglesa siguiendo las [instrucciones](#tecnicas-crema).
-  * Pasar la preparación por un colador, sobre la mitad restante de la crema y
-    mezclar. Enfriar lo más rápido posible en un baño maría invertido.
+  * Pasar la preparación por un colador, sobre la crema y mezclar. Enfriar lo
+    más rápido posible en un baño maría invertido.
   * Dejar reposar en la heladera por al menos un par de horas, idealmente una
-    noche entera. Al retirar, mezclar el marsala justo antes de pasar la mezcla
+    noche entera. Al retirar, mezclar el oporto justo antes de pasar la mezcla
     por la máquina de helados.
 
 ## Helados al agua
