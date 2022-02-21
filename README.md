@@ -34,6 +34,9 @@
  * [Galletitas de Avena](recetas/galletitas-avena.md)
  * [Helados](recetas/helados.md)
 
+## Panadería :bread:
+ * [Chipa](recetas/chipa.md)
+
 ## Fermentos y Conservas :cucumber:
  * [Pepinos en conserva](recetas/pepinos-conserva.md)
  * [Yogurt](recetas/yogurt.md)
