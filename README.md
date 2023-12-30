@@ -1,6 +1,7 @@
 # Recetas:
 ## Principales :spaghetti:
  * [Carré de Cerdo Relleno](recetas/carre-relleno.md)
+ * [Curry de Papa y Espinaca](recetas/curry-papa-espinaca.md)
  * [Filete de Merluza a la Crema de Puerros](recetas/filete-merluza-vino-blanco.md)
  * [Filete de Merluza al Vino Blanco](recetas/filete-merluza-vino-blanco.md)
  * [Guiso De Cerdo Y Arroz](recetas/guiso-cerdo-arroz.md)
