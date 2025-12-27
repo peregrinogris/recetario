@@ -45,7 +45,7 @@ Poner aceite de oliva en una sartén (cantidad generosa) y cuando tome temperatu
 dorar las albóndigas por fuera. No hace falta cocinarlas, sólo dorarlas. Reservarlas
 en una olla amplia donde se cocinarán luego.
 
-Saltear la cebolla en la sart´´én que doramos las albóndigas. Si el aceite está muy
+Saltear la cebolla en la sartén que doramos las albóndigas. Si el aceite está muy
 sucio por la harina, cambiarlo. Cuando transparente, añadir el resto del vino blanco.
 
 Cuando evapore el alcohol del vino blanco, agregar el tomate triturado y ajustar
@@ -57,7 +57,7 @@ medio/bajo.
 
 Cuidar que no se queme el fondo de la olla. Ajustar sal y pimienta al finalizar.
 
-Servir con arróz, puré de papas, papas hervidas en cubos, etc.
+Servir con arroz, puré de papas, papas hervidas en cubos, etc.
 
 #### Fuentes:
 * https://web.archive.org/web/20230126073424/https://www.hola.com/cocina/recetas/20200312162984/albondigas-en-salsa-faciles/
